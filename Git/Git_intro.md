@@ -22,13 +22,11 @@ $ git remote get-url [shortname]
 
 ```
 $ git checkout [filename]
-
 ```
 ## 説明
 下記コマンドで全ての変更を戻せる
 
 ```
 $ git checkout .
-
 ```
 
