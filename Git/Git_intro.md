@@ -5,9 +5,10 @@
 ```
 $ git remote add [shortname] [url]
 ```
-慣習として<shortname>がoriginですが、<url>の別名で付けてるだけなのでなんでもいいみたい
-originという名前に紐づけられている<url>は
+慣習として<shortname>がoriginであるが、<url>の別名で付けてるだけなのでなんでもよい
 
 ```
 $ git remote get-url [shortname]
 ```
+上記のコマンドで紐づけられているURLを取得できる
+
