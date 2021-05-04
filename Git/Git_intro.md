@@ -8,7 +8,6 @@
 
 ```
 $ git remote add [shortname] [url]
-
 ```
 
 ## 説明
