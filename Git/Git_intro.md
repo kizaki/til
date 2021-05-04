@@ -4,7 +4,7 @@
 - つまり、一度編集したファイルを過去に戻したり、編集箇所の差分を表示できる
 
 ## 説明
-慣習として<shortname>がoriginであるが、<url>の別名で付けてるだけなのでなんでもよい
+慣習として[shortname]がoriginであるが、[url]の別名で付けてるだけなのでなんでもよい
 
 ```
 $ git remote add [shortname] [url]
